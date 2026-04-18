@@ -10,7 +10,8 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: hsl(0, 0%, 20%);
     border-radius: 15px;
-    max-width: 300px;
+    max-width: 500px;
+    max-height:670px;
     overflow: hidden;
 }
 #display{
