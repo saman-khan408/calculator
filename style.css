@@ -58,8 +58,8 @@ button:active{
 }
 @media (max-width: 480px){
     #calculator{
-        width: 85%;        
-        max-width: 320px;  
+        width: 85%;        /* less wide */
+        max-width: 320px;  /* tighter size */
     }
 
     #keys{
